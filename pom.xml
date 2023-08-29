@@ -16,7 +16,7 @@
 		<repository>
 				<id>nexus</id>
 				<url>http://10.38.0.105:8081/repository/maven-releases</url>
-		</repository
+		</repository>
 	</distributionManagement>
 	<dependencies>
 		<dependency>
